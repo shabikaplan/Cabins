@@ -86,6 +86,15 @@ hr {
 	width:100rem;
 	object-fit: contain;
 }
+@media screen and (max-width:768px){
+	.carousel-inner .item img{
+	height:30rem;
+	width:30rem;
+	}
+	.box{
+		margin: .9rem 
+	}
+}
 
 .box {
     margin-bottom: 20px;
@@ -150,6 +159,8 @@ footer p {
         float: left;
         margin-right: 25px;
     }
+	
+	
 
     .address-bar {
         display: inherit;
