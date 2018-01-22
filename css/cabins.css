@@ -87,12 +87,16 @@ hr {
 	object-fit: contain;
 }
 @media screen and (max-width:768px){
+	body{
+		background: url('../img/bg1_opt.jpg')repeat center center fixed;
+	}
 	.carousel-inner .item img{
 	height:30rem;
 	width:30rem;
 	}
 	.box{
-		margin: .9rem 
+		margin: 3rem 1.1rem; 
+		
 	}
 }
 
