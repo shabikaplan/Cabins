@@ -94,10 +94,7 @@ hr {
     background: rgba(255,255,255,0.9);
 }
 
-.box .image img{
-	min-height:30rem;
-	min-width:30rem;
-}
+
 
 .inside{
 	margin-bottom: 2rem;
